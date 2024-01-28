@@ -51,3 +51,6 @@ to run the project please run "run.py" file in the main folder of the project
 
 ------Viewing The App------
 Go to http://127.0.0.1:5000
+
+------pov------
+![Alt Text](pic/מסך כניסה.png)
