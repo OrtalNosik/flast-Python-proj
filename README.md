@@ -55,7 +55,6 @@ Go to http://127.0.0.1:5000
 ------pov------
 ![דף בית עסקי](https://github.com/OrtalNosik/flast-Python-proj/assets/93153515/a8f7243a-b799-4bba-8b8f-7b7e2ca1d9b6)
 ![דוח דיווחים](https://github.com/OrtalNosik/flast-Python-proj/assets/93153515/c7fac1a2-d388-46fb-a5cc-a3cb06b592f9)
-![הוספת פריט](https://github.com/OrtalNosik/flast-Python-proj/assets/93153515/1a3cbd59-537e-45a6-9756-a5db955a2df8)
 ![מסך כניסה](https://github.com/OrtalNosik/flast-Python-proj/assets/93153515/5596169f-bf11-4b3c-b999-0d7ae2e665e8)
 ![דף הרשמה חנות](https://github.com/OrtalNosik/flast-Python-proj/assets/93153515/30e09f91-5cbb-4773-912c-67dbefbfa413)
 get more examples in the 'pic' folder
