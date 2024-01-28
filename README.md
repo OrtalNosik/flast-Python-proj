@@ -45,3 +45,9 @@ pytest==1.0
 -----Data Base Instructions------
 The data base will be created automaticly when running the project for the first time(or if the data base file has been deleted)
 -Note: if you change data-baswe related objects and attributs you shuld recreate the data-base file
+
+------Run Program--------
+to run the project please run "run.py" file in the main folder of the project
+
+------Viewing The App------
+Go to http://127.0.0.1:5000
